@@ -1,0 +1,39 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1758308266525,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RxcbGxoeLQ"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1758307066827,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JbTZf8oMml"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Revorde",
+      "uniqueId": "349d1268-fedc-4755-a3f9-44bd187ee726"
+    },
+    "time": 1757602329568,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PiigLM3zff"
+    }
+  }
+]
