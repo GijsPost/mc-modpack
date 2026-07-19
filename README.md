@@ -1,4 +1,4 @@
-# The Shark Reef Pack
+# Revo's Pack
 
 ![alt text](assets/image.png)
 **Version:** 1.0.1
